@@ -1,5 +1,4 @@
 # 405ssedm
----
 ### Orientaciones para el estudio
 
 > 1. Realizar la encuesta de conocimientos necesarios para la asignatura. Se puede descargar en: [documento Word](Encuesta_sobre_Sistemas_empotrados_y_dispositivos_móviles.docx). Una vez llenada, deben enviar el documento a la dirección email: varoque@uci.cu.
