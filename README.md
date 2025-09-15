@@ -1,5 +1,4 @@
 # 405ssedm
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/jmaupetit/md2pdf/python-package.yml?logo=python&label=Python%20build)
 ---
 ### Orientaciones para el estudio
 
