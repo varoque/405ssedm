@@ -1,5 +1,5 @@
 # 405ssedm
-![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/jmaupetit/md2pdf/python-package.yml?logo=python&label=Python%20build)
 ---
 ### Orientaciones para el estudio
 
