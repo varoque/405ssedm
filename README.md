@@ -1,5 +1,5 @@
 # 405ssedm
-![GitHub](https://img.shields.io/github/license/varoque/405ssedm) ![GitHub Releases](https://img.shields.io/github/downloads/varoque/405ssedm/v1.0.0/total)
+![GitHub](https://img.shields.io/github/license/varoque/405ssedm) ![GitHub Releases](https://img.shields.io/github/downloads/varoque/405ssedm/v1.0/total)
 ### Orientaciones para el estudio
 
 > 1. Realizar la encuesta de conocimientos necesarios para la asignatura. Se puede descargar en: [documento Word](Encuesta_sobre_Sistemas_empotrados_y_dispositivos_móviles.docx). Una vez llenada, deben enviar el documento a la dirección email: varoque@uci.cu.
