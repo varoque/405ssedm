@@ -115,10 +115,9 @@ f) Métodos de evaluación y descripción de los resultados
 
 **Bibliografía**
 
-- Alan Burns and Andy Wellings. Real-Time Systems and Programming Languages. Addison-Wesley, 2009. 4ª edición.
-- Arnold S. Berger. Embedded Systems Design. An Introduction to Processes, Tools, and Techniques. CMP Books, 2002.
-- David E. Simon. An Embedded Software Primer. 1999.
-- Tero Karvinen and Kimmo Karvinen. Make: Arduino Bots and Gadgets: Six Embedded Projects with Open Source Hardware and Software. 2011.
+- [Embedded Systems Architecture: A comprehensive guide for Engineers and Programming. Tamy Noergaard, 2005.]()
+- [Mastering the FreeRTOS Real Time Kernel: A Hands-On Tutorial Guide. Richard Barry, 2016.]()
+- [Tero Karvinen and Kimmo Karvinen. Make: Arduino Bots and Gadgets: Six Embedded Projects with Open Source Hardware and Software. 2011.]()
 - [Documentación oficial de Arduino.](https://docs.arduino.cc/)
 - [Documentación para desarrolladores de Android](https://developer.android.com/)
 
