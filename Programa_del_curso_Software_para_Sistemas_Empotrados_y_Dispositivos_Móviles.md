@@ -115,9 +115,15 @@ f) Métodos de evaluación y descripción de los resultados
 
 **Bibliografía**
 
-- [Embedded Systems Architecture: A comprehensive guide for Engineers and Programming. Tamy Noergaard, 2005.]()
-- [Mastering the FreeRTOS Real Time Kernel: A Hands-On Tutorial Guide. Richard Barry, 2016.]()
-- [Tero Karvinen and Kimmo Karvinen. Make: Arduino Bots and Gadgets: Six Embedded Projects with Open Source Hardware and Software. 2011.]()
+- [Embedded Systems Architecture: A comprehensive guide for Engineers and Programming. Tamy Noergaard, 2005.](Biblio/Embedded-Systems-Architecture-A-Comprehensive-Guide-for-Engineers-and-Programmers.pdf)
+
+- [Mastering the FreeRTOS Real Time Kernel: A Hands-On Tutorial Guide. Richard Barry, 2016.](Biblio/161204_Mastering_the_FreeRTOS_Real_Time_Kernel-A_Hands-On_Tutorial_Guide.pdf)
+
+- [Tero Karvinen and Kimmo Karvinen. Make: Arduino Bots and Gadgets: Six Embedded Projects with Open Source Hardware and Software. 2011.](Biblio/make-arduino-bots-and-gadgets-six-embedded-projects-with-open-source-hardware-and-software.pdf)
+
 - [Documentación oficial de Arduino.](https://docs.arduino.cc/)
+
 - [Documentación para desarrolladores de Android](https://developer.android.com/)
+
+  
 

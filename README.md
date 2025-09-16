@@ -22,12 +22,11 @@ Email: <varoque@uci.cu>
 
 **Bibliografía**
 
-- Alan Burns and Andy Wellings. Real-Time Systems and Programming Languages. Addison-Wesley, 2009. 4ª edición.
-- Arnold S. Berger. Embedded Systems Design. An Introduction to Processes, Tools, and Techniques. CMP Books, 2002.
-- David E. Simon. An Embedded Software Primer. 1999.
-- Tero Karvinen and Kimmo Karvinen. Make: Arduino Bots and Gadgets: Six Embedded Projects with Open Source Hardware and Software. 2011.
+- [Embedded Systems Architecture: A comprehensive guide for Engineers and Programming. Tamy Noergaard, 2005.](Biblio/Embedded-Systems-Architecture-A-Comprehensive-Guide-for-Engineers-and-Programmers.pdf)
+- [Mastering the FreeRTOS Real Time Kernel: A Hands-On Tutorial Guide. Richard Barry, 2016.](Biblio/161204_Mastering_the_FreeRTOS_Real_Time_Kernel-A_Hands-On_Tutorial_Guide.pdf)
+- [Tero Karvinen and Kimmo Karvinen. Make: Arduino Bots and Gadgets: Six Embedded Projects with Open Source Hardware and Software. 2011.](Biblio/make-arduino-bots-and-gadgets-six-embedded-projects-with-open-source-hardware-and-software.pdf)
 - [Documentación oficial de Arduino.](https://docs.arduino.cc/)
-- [Documentación para desarrolladores de Android](https://developer.android.com/)
+- [Documentación para desarrolladores de Android](https://developer.android.com/) 
 
 #### Puede ver el programa completo del curso en: [Programa del  curso Software para Sistemas Empotrados y Dispositivos Móviles](Programa_del_curso_Software_para_Sistemas_Empotrados_y_Dispositivos_Móviles.md)
 
