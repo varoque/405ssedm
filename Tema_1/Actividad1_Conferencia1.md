@@ -46,7 +46,6 @@ stateDiagram-v2
     CPU --> FPGA/ASIC
     Memoria --> CPU
     CPU --> Memoria
-    Memoria --> CPU
     A/D_C. --> CPU
     CPU --> A/D_C.
     A/D_C. --> Sensor
@@ -63,6 +62,10 @@ stateDiagram-v2
 > - El puerto de diagnóstico ya no sirve únicamente para chequear el sistema computador (o, extrapolando, el sistema empotrado), sino que también puede chequear el entorno que hay que controlar.
 > - Se suelen utilizar dispositivos de aplicación específica para aumentar las prestaciones del sistema completo, ya sean digitales o analógicos.
 > - Por lo general, el software tiene una misión fija y específica a la aplicación.
+
+---
+
+
 
 
 
