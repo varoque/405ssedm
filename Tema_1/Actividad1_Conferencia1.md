@@ -53,7 +53,7 @@ Por lo general los sistemas embebidos tienen la estrutura que se muestra en la s
 
 ![Arquitectura de un SE](../images/System.png) 
 
-*Figura 1. Arquitectura común de un SE* en cuanto a componentes
+*Figura 1. Arquitectura común de un SE en cuanto a componentes*
 
 Donde:
 
@@ -177,7 +177,8 @@ No existe un único flujo universal, sino varios modelos que se adaptan a la nat
     *   **Debilidades:** Poco flexible a cambios una vez avanzado el proyecto.
 
 ![V-model](../images/1_v-model.webp)
-Figura 2 Flujo de trabajo V para el desarrollo de sistemas empotrados 
+
+*Figura 2 Flujo de trabajo V para el desarrollo de sistemas empotrados* 
 
 2.  **Diseño Basado en Plataformas:**
     *   **Fuente:** Práctica industrial moderna para reducir tiempo y costo.
@@ -189,9 +190,9 @@ Figura 2 Flujo de trabajo V para el desarrollo de sistemas empotrados
     *   **Descripción:** Utiliza iteraciones cortas (sprints) para desarrollar incrementalmente el sistema. Se enfoca en la colaboración y la respuesta al cambio.
     *   **Fortalezas:** Muy adaptable a cambios en los requisitos. Mejora la comunicación.
     *   **Debilidades:** La integración continua con hardware físico es un desafío. Requiere técnicas como "hardware-in-the-loop" (HIL) para simular el hardware en sprints tempranos.
-        ![Spring for SE](../images/Quality_assurance-1536x416.jpg)
+![Spring for SE](../images/Quality_assurance-1536x416.jpg)
 
-Figura 3 Flujo de trabajo Spring para el desarrollo de sistemas empotrados 
+*Figura 3 Flujo de trabajo Spring para el desarrollo de sistemas empotrados*
 
 4. **Carta Y de Gajski:**
 
@@ -204,7 +205,7 @@ Figura 3 Flujo de trabajo Spring para el desarrollo de sistemas empotrados
 
 ![Y-Gasjski](../images/thesis0x.png)
 
-Figura 4 Flujo de trabajo Y de Gajski para el desarrollo de sistemas empotrados 
+*Figura 4 Flujo de trabajo Y de Gajski para el desarrollo de sistemas empotrados*
 
 ##### 5. Herramientas Clave en el Flujo (Toolchain)
 
