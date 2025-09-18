@@ -176,27 +176,37 @@ No existe un único flujo universal, sino varios modelos que se adaptan a la nat
     *   **Fortalezas:** Muy estructurado, documentado y con una clara trazabilidad entre requisitos y pruebas. Ideal para sistemas de alta integridad y seguridad.
     *   **Debilidades:** Poco flexible a cambios una vez avanzado el proyecto.
 
+![V-model](D:\Victor\Curso\Clases en China\SSEDM\405ssedm\images\1_v-model.webp)
+Figura 2 Flujo de trabajo V para el desarrollo de sistemas empotrados 
+
 2.  **Diseño Basado en Plataformas:**
     *   **Fuente:** Práctica industrial moderna para reducir tiempo y costo.
     *   **Descripción:** Se basa en reutilizar una plataforma hardware/software preexistente y bien probada (ej.: una familia de microcontroladores, un RTOS específico, librerías). El diseño se centra en personalizar y agregar valor a esta plataforma base.
     *   **Fortalezas:** Acelera enormemente el time-to-market, reduce riesgos y costos.
     *   **Debilidades:** Puede limitar la optimización extrema al estar restringido a las capacidades de la plataforma.
-
 3.  **Desarrollo Ágil para Sistemas Embebidos (Agile/Scrum):**
     *   **Fuente:** Adaptación de las metodologías ágiles de software al contexto embebido.
     *   **Descripción:** Utiliza iteraciones cortas (sprints) para desarrollar incrementalmente el sistema. Se enfoca en la colaboración y la respuesta al cambio.
     *   **Fortalezas:** Muy adaptable a cambios en los requisitos. Mejora la comunicación.
     *   **Debilidades:** La integración continua con hardware físico es un desafío. Requiere técnicas como "hardware-in-the-loop" (HIL) para simular el hardware en sprints tempranos.
+        ![Spring for SE](D:\Victor\Curso\Clases en China\SSEDM\405ssedm\images\Quality_assurance-1536x416.jpg)
 
-4.  **Carta Y de Gajski:**
-    *   **Fuente:** Modelo académico e industrial para el diseño de sistemas electrónicos.
-    *   **Descripción:** Visualiza el diseño en tres dominios que se refinan de manera concurrente:
-        *   **Comportamental:** ¿*Qué* hace el sistema? (Algoritmos).
-        *   **Estructural:** ¿*Con qué* se hace? (Componentes e interconexiones).
-        *   **Físico:** ¿*Dónde* se ubica? (Layout, geometría).
-    *   **Fortalezas:** Enfatiza la naturaleza multidimensional del diseño (HW/SW/físico).
+Figura 3 Flujo de trabajo Spring para el desarrollo de sistemas empotrados 
 
-##### 3. Herramientas Clave en el Flujo (Toolchain)
+4. **Carta Y de Gajski:**
+
+*   **Fuente:** Modelo académico e industrial para el diseño de sistemas electrónicos.
+*   **Descripción:** Visualiza el diseño en tres dominios que se refinan de manera concurrente:
+    *   **Comportamental:** ¿*Qué* hace el sistema? (Algoritmos).
+    *   **Estructural:** ¿*Con qué* se hace? (Componentes e interconexiones).
+    *   **Físico:** ¿*Dónde* se ubica? (Layout, geometría).
+*   **Fortalezas:** Enfatiza la naturaleza multidimensional del diseño (HW/SW/físico).
+
+![Y-Gasjski](D:\Victor\Curso\Clases en China\SSEDM\405ssedm\images\thesis0x.png)
+
+Figura 4 Flujo de trabajo Y de Gajski para el desarrollo de sistemas empotrados 
+
+##### 5. Herramientas Clave en el Flujo (Toolchain)
 
 Un flujo de desarrollo moderno depende de un ecosistema de herramientas:
 *   **Entornos de Desarrollo Integrado (IDE):** Keil µVision, IAR Embedded Workbench, STM32CubeIDE, MPLAB X.
